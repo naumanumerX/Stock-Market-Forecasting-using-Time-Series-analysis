@@ -1,0 +1,6 @@
+Download &install anaconda
+Launch juypter notebook
+Upload .ipynb files
+Upload meezan.csv to same folder
+After uploading .ipynb files
+Click on cells then run all.
